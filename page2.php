@@ -5,6 +5,6 @@ require_once __DIR__ . "/templates/header.php";
 
 
 <h1 align="center">Bienvenue sur la page2!</h1>
-<p></p>
+<p>essai ....</p>
 
 <?php require_once __DIR__ . "/templates/footer.php"; ?>
