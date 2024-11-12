@@ -1,4 +1,4 @@
-<h1>"Zoo Arcadia": Projet de création d'un site d'un zoo virtuel - Projet pour ECF Studi Hivers 2024.</h1>
+<h1>"Zoo Arcadia": Projet de création d'un site d'un zoo virtuel - Projet pour ECF Studi Primptemps 2025.</h1>
 
 ## Le lien de la version en ligne de l’application web :
 
