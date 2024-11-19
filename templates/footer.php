@@ -60,7 +60,7 @@
                     <div class="col-2">
                         <ul class="list-unstyled text-center">
                             <li><a class="nav-link" href="legal.php">Mentions légales</a></li>
-                            <li><a class="nav-link" href="https://github.com/ChristelleCossard/zoo-arcadia2024" target="_blank">GITHUB du projet</a></li>
+                            <li><a class="nav-link" href="https://github.com/ChristelleCossard/zoo-arcadia-ECF-Printemps2025" target="_blank">GITHUB du projet</a></li>
                         <!--   -->
                 
                       </ul>
