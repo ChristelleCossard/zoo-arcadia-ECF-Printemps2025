@@ -13,9 +13,9 @@ https://trello.com/b/L6AC2jHT/ecf-hivers-2024-zoo
 
 ## Documents complémentaires joints au projet
 
-+ [1-zoobdd.sql](https:)
++ [1-zoobdd.sql](https://github.com/ChristelleCossard/zoo-arcadia-ECF-Printemps2025/blob/main/zoobdd.sql)
 
-+ [2-Copie à rendre.pdf](https://)
++ [2-Copie à rendre.pdf](https://github.com/ChristelleCossard/zoo-arcadia-ECF-Printemps2025/blob/main/ECF_GraduateDeveloppeur_ZOO_copiearendre_COSSARD_Christelle%20.pdf)
 
 
 
