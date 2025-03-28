@@ -226,7 +226,7 @@ require_once __DIR__ . "/templates/header.php";
                 </p><h2>10. Droit applicable et attribution de juridiction.</h2>  
                  <p>
                 Tout litige en relation avec l’utilisation du site <a href="http://cocoweb10.fr">http://cocoweb10.fr</a> est soumis au droit français. 
-                En dehors des cas où la loi ne le permet pas, il est fait attribution exclusive de juridiction aux tribunaux compétents de </p>
+                En dehors des cas où la loi ne le permet pas, il est fait attribution exclusive de juridiction aux tribunaux compétents de Metz.</p>
 
 
 
